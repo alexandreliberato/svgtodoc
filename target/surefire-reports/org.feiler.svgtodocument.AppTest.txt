@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.feiler.svgtodocument.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE!
+testApp(org.feiler.svgtodocument.AppTest)  Time elapsed: 0.012 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at org.feiler.svgtodocument.AppTest.testApp(AppTest.java:35)
+
