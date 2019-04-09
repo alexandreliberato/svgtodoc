@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d4860b6-f42e-47f0-be0a-b2d1772ca953" name="Default Changelist" comment="" />
+    <list default="true" id="8d4860b6-f42e-47f0-be0a-b2d1772ca953" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.attach_pid9509" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svgtodocument.iml" beforeDir="false" afterPath="$PROJECT_DIR$/svgtodocument.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/feiler/svgtodocument/SVGParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/feiler/svgtodocument/SVGParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/feiler/svgtodocument/SVGParserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/feiler/svgtodocument/SVGParserTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +25,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="191">
+              <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#582#583#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -35,17 +51,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="391">
+              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state relative-caret-position="176">
+              <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,17 +71,21 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGToDocument.java" />
         <option value="$PROJECT_DIR$/src/test/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/resources/diagram-invalido.svg" />
-        <option value="$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java" />
-        <option value="$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java" />
       </list>
     </option>
   </component>
@@ -82,12 +102,12 @@
     <option name="width" value="1346" />
     <option name="height" value="694" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,11 +115,17 @@
               <item name="svgtodocument" type="b2602c69:ProjectViewProjectNode" />
               <item name="svgtodocument" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="svgtodocument" type="b2602c69:ProjectViewProjectNode" />
+              <item name="svgtodocument" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,11 +263,11 @@
     <list>
       <item itemvalue="JUnit.SVGParserTest" />
       <item itemvalue="JUnit.SVGParserTest.testApp" />
-      <item itemvalue="Maven.install" />
-      <item itemvalue="Maven.run" />
       <item itemvalue="JUnit.SVGParserTest.parseSVGToW3CDocumentTest" />
       <item itemvalue="JUnit.SVGParserTest.parseNonExistentW3CSVGToDocumentTest" />
       <item itemvalue="JUnit.SVGParserTest.parseInvalidW3CSVGToDocumentTest" />
+      <item itemvalue="Maven.install" />
+      <item itemvalue="Maven.run" />
     </list>
     <recent_temporary>
       <list>
@@ -299,14 +325,13 @@
     <frame x="0" y="34" width="1366" height="734" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Log4jMonitor" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3305921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,7 +339,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Log4jMonitor" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -326,32 +352,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java</url>
-          <line>71</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java</url>
-          <line>74</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java</url>
-          <line>19</line>
+          <line>23</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java</url>
-          <line>44</line>
+          <line>48</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
@@ -394,13 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -418,30 +419,55 @@
     <entry file="file://$PROJECT_DIR$/src/test/resources/diagram-invalido.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java">
+    <entry file="file://$PROJECT_DIR$/.attach_pid9509" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="551">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/feiler/svgtodocument/SVGParserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="191">
+          <caret line="80" column="29" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="391">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/feiler/svgtodocument/SVGParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

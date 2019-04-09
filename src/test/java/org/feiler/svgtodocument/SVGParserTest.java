@@ -1,6 +1,5 @@
 package org.feiler.svgtodocument;
 
-import org.apache.batik.dom.util.SAXIOException;
 import org.junit.jupiter.api.Test;
 
 import java.io.IOException;
@@ -10,9 +9,6 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 
-/**
- * Unit test for simple App.
- */
 public class SVGParserTest {
 
     public static final String RESOURCE_DIAGRAM_SVG_VALID = "/diagram.svg";
@@ -22,7 +18,6 @@ public class SVGParserTest {
     SVGParser svgParser;
 
     public SVGParserTest( ) {
-
         this.svgParser = new SVGParser();
     }
 
@@ -74,6 +69,16 @@ public class SVGParserTest {
         assertThrows(NullPointerException.class, () -> {
             this.svgParser.toW3CDocument(url.getPath());
         });
+    }
+
+    @Test
+    void testParseSVGToJSON() throws IOException {
+
+        URL url = getResourceURL(RESOURCE_DIAGRAM_SVG_VALID);
+
+        String strJson = this.svgParser.toJson(url.getPath());
+
+        assertNotNull(strJson);
     }
 
     private URL getResourceURL(String resource) {
